@@ -1,0 +1,16 @@
+D:\Assignments\Class_Assignment\csharp_class_assignment-1\C_and_O\C_and_O\obj\Debug\net5.0\C_and_O.csproj.AssemblyReference.cache
+D:\Assignments\Class_Assignment\csharp_class_assignment-1\C_and_O\C_and_O\obj\Debug\net5.0\C_and_O.GeneratedMSBuildEditorConfig.editorconfig
+D:\Assignments\Class_Assignment\csharp_class_assignment-1\C_and_O\C_and_O\obj\Debug\net5.0\C_and_O.AssemblyInfoInputs.cache
+D:\Assignments\Class_Assignment\csharp_class_assignment-1\C_and_O\C_and_O\obj\Debug\net5.0\C_and_O.AssemblyInfo.cs
+D:\Assignments\Class_Assignment\csharp_class_assignment-1\C_and_O\C_and_O\obj\Debug\net5.0\C_and_O.csproj.CoreCompileInputs.cache
+D:\Assignments\Class_Assignment\csharp_class_assignment-1\C_and_O\C_and_O\bin\Debug\net5.0\C_and_O.exe
+D:\Assignments\Class_Assignment\csharp_class_assignment-1\C_and_O\C_and_O\bin\Debug\net5.0\C_and_O.deps.json
+D:\Assignments\Class_Assignment\csharp_class_assignment-1\C_and_O\C_and_O\bin\Debug\net5.0\C_and_O.runtimeconfig.json
+D:\Assignments\Class_Assignment\csharp_class_assignment-1\C_and_O\C_and_O\bin\Debug\net5.0\C_and_O.runtimeconfig.dev.json
+D:\Assignments\Class_Assignment\csharp_class_assignment-1\C_and_O\C_and_O\bin\Debug\net5.0\C_and_O.dll
+D:\Assignments\Class_Assignment\csharp_class_assignment-1\C_and_O\C_and_O\bin\Debug\net5.0\ref\C_and_O.dll
+D:\Assignments\Class_Assignment\csharp_class_assignment-1\C_and_O\C_and_O\bin\Debug\net5.0\C_and_O.pdb
+D:\Assignments\Class_Assignment\csharp_class_assignment-1\C_and_O\C_and_O\obj\Debug\net5.0\C_and_O.dll
+D:\Assignments\Class_Assignment\csharp_class_assignment-1\C_and_O\C_and_O\obj\Debug\net5.0\ref\C_and_O.dll
+D:\Assignments\Class_Assignment\csharp_class_assignment-1\C_and_O\C_and_O\obj\Debug\net5.0\C_and_O.pdb
+D:\Assignments\Class_Assignment\csharp_class_assignment-1\C_and_O\C_and_O\obj\Debug\net5.0\C_and_O.genruntimeconfig.cache

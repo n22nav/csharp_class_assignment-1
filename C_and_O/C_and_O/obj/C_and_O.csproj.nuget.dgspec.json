@@ -1,27 +1,34 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Assignment\\Assignment 1\\csharp_class_assignment-1\\C_and_O\\C_and_O\\C_and_O.csproj": {}
+    "D:\\Assignments\\Class_Assignment\\csharp_class_assignment-1\\C_and_O\\C_and_O\\C_and_O.csproj": {}
   },
   "projects": {
-    "G:\\Assignment\\Assignment 1\\csharp_class_assignment-1\\C_and_O\\C_and_O\\C_and_O.csproj": {
+    "D:\\Assignments\\Class_Assignment\\csharp_class_assignment-1\\C_and_O\\C_and_O\\C_and_O.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Assignment\\Assignment 1\\csharp_class_assignment-1\\C_and_O\\C_and_O\\C_and_O.csproj",
+        "projectUniqueName": "D:\\Assignments\\Class_Assignment\\csharp_class_assignment-1\\C_and_O\\C_and_O\\C_and_O.csproj",
         "projectName": "C_and_O",
-        "projectPath": "G:\\Assignment\\Assignment 1\\csharp_class_assignment-1\\C_and_O\\C_and_O\\C_and_O.csproj",
-        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "G:\\Assignment\\Assignment 1\\csharp_class_assignment-1\\C_and_O\\C_and_O\\obj\\",
+        "projectPath": "D:\\Assignments\\Class_Assignment\\csharp_class_assignment-1\\C_and_O\\C_and_O\\C_and_O.csproj",
+        "packagesPath": "C:\\Users\\socgendot15\\.nuget\\packages\\",
+        "outputPath": "D:\\Assignments\\Class_Assignment\\csharp_class_assignment-1\\C_and_O\\C_and_O\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\socgendot15\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {

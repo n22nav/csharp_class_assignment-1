@@ -3,6 +3,8 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net5.0</TargetFramework>
+	  <RootNamespace>C_and_O</RootNamespace>
+	  <StartupObject>C_and_O.Q1</StartupObject>
   </PropertyGroup>
 
 </Project>
